@@ -1,8 +1,9 @@
 # 📊 Student Performance Analysis using xAPI-Edu-Data
 
 ## 📌 Project Overview
-This project analyses factors influencing student performance using the **xAPI-Edu-Data dataset**, which contains 480 student records with 17 attributes (demographic, behavioural, and parental engagement).  
+This project analyses factors influencing student performance using the **[xAPI-Edu-Data dataset](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data)**, which contains 480 student records with 17 attributes (demographic, behavioural, and parental engagement).  
 We explored how absenteeism, parental involvement, and student engagement affect academic outcomes, and visualized findings using **Tableau** dashboards and storytelling features.
+
 
 The study shows that:
 - Higher **parental engagement** correlates with better academic outcomes.  
